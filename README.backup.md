@@ -30,8 +30,6 @@ Passionate **AI enthusiast** dedicated to transforming businesses through **Arti
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 
----
-
 ## 💡 Core Interests
 
 <div align="center">
@@ -111,42 +109,63 @@ Goal: "Bridge the gap between AI innovation and business value"
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph & Snake Game
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish2105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=krish2105&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## � Creative Code Art
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## �🌐 Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnamathurmay/)
 
-**Open to discussing:** AI & Machine Learning • Data Science • FinTech • Business Strategy • Innovation
+### 💬 Let's Talk About:
+🤖 **AI & Machine Learning** | 📊 **Data Science** | 💰 **FinTech** | 🚀 **Innovation** | 📈 **Strategy**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Always curious. Always learning. Building AI solutions that matter."* ⭐
+
+<img src="https://komarev.com/ghpvc/?username=krish2105&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+**⚡ Fun Fact:** *I believe the future belongs to those who understand both the language of business and the poetry of code!* 
 
 <br/>
 
-### ⭐ *"Always curious. Always learning. Building AI solutions that matter."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=krish2105&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Keep+Learning+•+Keep+Building+•+Keep+Innovating;The+Future+is+AI+%E2%9A%A1;Let's+Build+Something+Amazing+Together!" alt="Footer Typing SVG" />
+</div>
 
 </div>
