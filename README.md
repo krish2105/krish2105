@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Mathur&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%2B%20Finance%20Builder%20•%20Fraud%20Detection%20•%20NLP%20•%20Dashboards&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+of+AI+in+Business+%40+SP+Jain+Dubai;Building+Fraud+Detection+%26+NLP+Systems;Finance+%2B+AI+%3D+Applied+Decision+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+of+AI+in+Business+%40+SP+Jain+Dubai;Building+Fraud+Detection+%26+NLP+Systems;Finance+%2B+AI+%3D+Applied+Decision+Intelligence" alt="Typing SVG" />
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 📫 [LinkedIn](https://www.linkedin.com/in/krishnamathurmay/) • krishnamathur008@gmail.com • [Portfolio](https://portolio-krishna.vercel.app/)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
----
+</div>
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ I build applied AI systems at the intersection of machine learning and business 
 🌟 **Focus:** Fraud detection, multilingual NLP, and predictive dashboards for finance and retail use cases.
 💼 **Approach:** Bridge AI research and practical business applications with working prototypes, not just theory.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 💡 Core Interests
 
@@ -34,7 +34,7 @@ I build applied AI systems at the intersection of machine learning and business 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🏆 Featured Projects
 
@@ -49,49 +49,34 @@ I build applied AI systems at the intersection of machine learning and business 
 
 *(Results and accuracy figures are added to each project's own README as they're finalized — see linked repos for current status.)*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,streamlit,fastapi,git,github,jupyter,mysql&theme=dark" />
 
-### Machine Learning & AI
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
 
-### Apps & Delivery
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
 
-### Business Intelligence
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🎯 Currently Building
 
-<div align="center">
-
 ```yaml
-Now:      "Project Wafa — multilingual NLP customer-retention platform (SP Jain NLP coursework, 30% of grade)"
+Now:       "Project Wafa — multilingual NLP customer-retention platform (SP Jain NLP coursework, 30% of grade)"
 Exploring: "Applied deep learning for fraud detection and time-series forecasting"
-Goal:     "Bridge AI research and real business decision-making"
+Goal:      "Bridge AI research and real business decision-making"
 ```
 
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -101,10 +86,10 @@ Goal:     "Bridge AI research and real business decision-making"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish2105&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=krish2105&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -112,7 +97,7 @@ Goal:     "Bridge AI research and real business decision-making"
   <img src="https://github-profile-trophy.vercel.app/?username=krish2105&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📈 Contribution Activity
 
@@ -120,7 +105,17 @@ Goal:     "Bridge AI research and real business decision-making"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish2105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🤝 Let's Connect
 
