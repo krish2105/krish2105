@@ -99,13 +99,7 @@ Goal:      "Bridge AI research and real business decision-making"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish2105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
-<br/>
+## 📈 Contribution Snake
 
 <div align="center">
   <picture>
