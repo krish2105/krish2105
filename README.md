@@ -24,6 +24,21 @@ I build applied AI systems at the intersection of machine learning and business 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+## 🎓 Education
+
+**Master of AI in Business (MAIB)** — SP Jain School of Global Management, Dubai *(2025 – Present)*
+**B.Tech, Computer Science Engineering (AI & ML)** — Manipal University Jaipur *(2021 – 2025)*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+## 🏅 Recognition
+
+- 🏆 USD 9,000 Merit Scholarship — SP Jain School of Global Management
+- 🏆 Student Excellence Award — Manipal University Jaipur
+- 🏆 Brilliant Student Award — highest academic performance, B.Tech CSE (AI & ML)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
 ## 💡 Core Interests
 
 <div align="center">
@@ -68,12 +83,13 @@ I build applied AI systems at the intersection of machine learning and business 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## 🎯 Currently Building
+## 🎯 Currently Building & Pursuing
 
 ```yaml
-Now:       "Project Wafa — multilingual NLP customer-retention platform (SP Jain NLP coursework, 30% of grade)"
-Exploring: "Applied deep learning for fraud detection and time-series forecasting"
-Goal:      "Bridge AI research and real business decision-making"
+Now:        "Project Wafa — multilingual NLP customer-retention platform (SP Jain NLP coursework, 30% of grade)"
+Exploring:  "Applied deep learning for fraud detection and time-series forecasting"
+Pursuing:   "AWS Cloud Practitioner, Power BI/Tableau, GenAI Developer pathways (in progress, not yet completed)"
+Goal:       "Bridge AI research and real business decision-making"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
@@ -127,5 +143,7 @@ Goal:      "Bridge AI research and real business decision-making"
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*Profile last updated: July 2026*
 
 </div>
