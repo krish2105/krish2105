@@ -1,152 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Krishna%20Mathur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20•%20ML%20Engineer%20•%20Finance%20Innovator&descAlignY=55&descSize=18" width="100%"/>
+# Krishna Mathur
+### AI/ML + Finance Builder — Fraud Detection • NLP • Predictive Dashboards
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+of+AI+in+Business;Building+Intelligent+Solutions;Finance+%2B+AI+%3D+Innovation;Data-Driven+Decision+Maker" alt="Typing SVG" />
+🎓 MAIB, SP Jain School of Global Management, Dubai &nbsp;|&nbsp; 📍 Dubai, UAE
 
-<br/>
-
-🎓 **SP Jain Global School of Management, Dubai** | 🌍 **AI • ML • Finance**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-## 🚀 About Me
-
-<img align="right" alt="AI Innovation" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Passionate **AI enthusiast** dedicated to transforming businesses through **Artificial Intelligence, Machine Learning, and Finance**.
-
-🎯 **Mission:** Applying AI-driven solutions to real-world business and financial challenges, blending technical expertise with strategic thinking.
-
-🌟 **Focus:** Exploring how data, algorithms, and intelligent decision-making models create smarter, scalable systems that drive business success.
-
-💼 **Approach:** Bridging the gap between cutting-edge AI research and practical business applications.
-
-<br clear="both"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
-</div>
-
----
-
-## 💡 Core Interests
-
-<div align="center">
-
-| 🤖 AI & Machine Learning | 📊 Business Analytics | 📈 Predictive Modeling | 🧠 Intelligent Automation |
-|:---:|:---:|:---:|:---:|
-| Deep Learning & Neural Networks | AI in Finance & Business | Data-Driven Decisions | Smart Systems & Solutions |
+📫 [LinkedIn](https://www.linkedin.com/in/krishnamathurmay/) • krishnamathur008@gmail.com
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+### About
+
+I build applied AI systems at the intersection of machine learning and business decision-making — fraud detection models, NLP pipelines, and analytics dashboards, grounded in real coursework and real data problems rather than tutorials.
+
+Background: B.Tech in Computer Science Engineering (AI & ML), Manipal University Jaipur → currently completing a Master of AI in Business at SP Jain Dubai.
+
+---
+
+### Featured Projects
+
+| Project | Focus | Tech Stack | Status |
+|---|---|---|---|
+| [FraudShield AI](https://github.com/krish2105/FraudShield-AI-Deep-Learning-) | LSTM/RNN-based payment fraud detection | Python, TensorFlow, Pandas | In progress |
+| [StockwiseAI](https://github.com/krish2105/StockwiseAI-DL-Project-) | LSTM demand/price forecasting | Python, TensorFlow, Streamlit | In progress |
+| [Project Wafa (NLP)](https://github.com/krish2105/NLP-Final-project-Wafa) | Multilingual customer-retention NLP platform for a banking use case | Python, NLP, Streamlit | In progress |
+| [NLP → SQL](https://github.com/krish2105/NLP-NL2-SQL) | Natural language to SQL query translation | Python, NLP | In progress |
+| [LuluCare 360](https://github.com/krish2105/NLP-LuluCare360) | Rule-based decision engine for complaint resolution | Python | In progress |
+| [Portfolio](https://github.com/krish2105/Portolio-Krishna) | Personal portfolio site | TypeScript | [Add demo link] |
+
+*(Results, accuracy figures, and live demo links will be added to each project's own README as they're finalized — see linked repos for current status.)*
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Currently Building
+
+🔭 **Project Wafa** — multilingual NLP customer-retention platform (SP Jain NLP coursework, 30% of grade)
+🌱 Exploring applied deep learning for fraud detection and time-series forecasting
+
+---
 
 <div align="center">
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### Machine Learning & AI
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Data & Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Business Intelligence
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish2105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish2105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2105&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish2105&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
 <div align="center">
 
-```yaml
-Learning_Journey:
-  Advanced_ML: "Deep Learning & Neural Networks"
-  AI_Finance: "Risk Analysis & Algorithmic Trading"
-  Business_AI: "Strategic AI Implementation"
-  Research: "AI Ethics & Responsible AI"
-  
-Goal: "Bridge the gap between AI innovation and business value"
-```
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish2105&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish2105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnamathurmay/)
-
-**Open to discussing:** AI & Machine Learning • Data Science • FinTech • Business Strategy • Innovation
-
-<br/>
-
-### ⭐ *"Always curious. Always learning. Building AI solutions that matter."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=krish2105&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/krishnamathurmay/) · krishnamathur008@gmail.com
 
 </div>
