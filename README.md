@@ -86,7 +86,7 @@ Goal:      "Bridge AI research and real business decision-making"
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=krish2105&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/krish2105/krish2105/main/profile/streak.svg" alt="GitHub Streak Stats"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
