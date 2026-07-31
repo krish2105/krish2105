@@ -1,0 +1,87 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build pipeline: Research to Build Prompt to Ship to Iterate">
+  <defs>
+    <linearGradient id="plbg_light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="55%" stop-color="#EEF2FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <radialGradient id="plglow_light" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="plcoregrad_light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#4338CA"/>
+    </linearGradient>
+    <filter id="plblur_light"><feGaussianBlur stdDeviation="26"/></filter>
+    <style><![CDATA[
+      .plbgr_light { fill: url(#plbg_light); }
+      .plorb_light { filter: url(#plblur_light); animation: plPulse_light 7s ease-in-out infinite; }
+      @keyframes plPulse_light { 0%,100% { opacity:0.55; } 50% { opacity: calc(0.55 + .2); } }
+      .pl-arrow_light { stroke:#38BDF8; stroke-width:2; stroke-dasharray:6 8; opacity:.6; animation: plFlow_light 1.6s linear infinite; }
+      @keyframes plFlow_light { to { stroke-dashoffset:-56; } }
+      .pl-glow_light { animation: plGlowPulse_light 3s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      @keyframes plGlowPulse_light { 0%,100% { transform:scale(1); opacity:.8; } 50% { transform:scale(1.2); opacity:1; } }
+      .pl-core_light { fill:url(#plcoregrad_light); animation: plBob_light 4.5s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      @keyframes plBob_light { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+      .pl-num_light { font-family: Verdana, sans-serif; font-size:14px; font-weight:800; fill:#E0F2FE; }
+      .pl-chip_light { animation: plChipFloat_light 5s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      @keyframes plChipFloat_light { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+      .pl-chiprect_light { fill:#FFFFFF; stroke:#0EA5E9; stroke-opacity:.55; stroke-width:1; }
+      .pl-title_light { font-family: Verdana, 'Segoe UI', sans-serif; font-size:13.5px; font-weight:700; fill:#0F172A; }
+      .pl-sub_light { font-family: Verdana, 'Segoe UI', sans-serif; font-size:9px; fill:#475569; }
+    ]]></style>
+  </defs>
+
+  <rect class="plbgr_light" x="0" y="0" width="1200" height="280" rx="20"/>
+  <circle class="plorb_light" cx="90" cy="240" r="90" fill="#C7D2FE"/>
+  <circle class="plorb_light" cx="1110" cy="40" r="100" fill="#BAE6FD" style="animation-delay:2s"/>
+
+  <line class="pl-arrow_light" x1="214" y1="110" x2="426" y2="110" style="animation-delay:0.2s"/>
+<line class="pl-arrow_light" x1="494" y1="110" x2="706" y2="110" style="animation-delay:0.6s"/>
+<line class="pl-arrow_light" x1="774" y1="110" x2="986" y2="110" style="animation-delay:1.0s"/>
+  
+      <g transform="translate(180,110)">
+        <circle class="pl-glow_light" r="34" fill="url(#plglow_light)" style="animation-delay:0.0s"/>
+        <circle class="pl-core_light" r="20" style="animation-delay:0.0s"/>
+        <text class="pl-num_light" x="0" y="5" text-anchor="middle">1</text>
+        <g class="pl-chip_light" transform="translate(0,50)" style="animation-delay:0.0s">
+          <rect x="-92" y="-10" width="184" height="52" rx="12" class="pl-chiprect_light"/>
+          <text class="pl-title_light" x="0" y="8" text-anchor="middle">Research</text>
+          <text class="pl-sub_light" x="0" y="24" text-anchor="middle">Market scan + scoring rubric</text>
+        </g>
+      </g>
+
+      <g transform="translate(460,110)">
+        <circle class="pl-glow_light" r="34" fill="url(#plglow_light)" style="animation-delay:0.4s"/>
+        <circle class="pl-core_light" r="20" style="animation-delay:0.4s"/>
+        <text class="pl-num_light" x="0" y="5" text-anchor="middle">2</text>
+        <g class="pl-chip_light" transform="translate(0,50)" style="animation-delay:0.4s">
+          <rect x="-92" y="-10" width="184" height="52" rx="12" class="pl-chiprect_light"/>
+          <text class="pl-title_light" x="0" y="8" text-anchor="middle">Build Prompt</text>
+          <text class="pl-sub_light" x="0" y="24" text-anchor="middle">Master prompt for Claude Code</text>
+        </g>
+      </g>
+
+      <g transform="translate(740,110)">
+        <circle class="pl-glow_light" r="34" fill="url(#plglow_light)" style="animation-delay:0.8s"/>
+        <circle class="pl-core_light" r="20" style="animation-delay:0.8s"/>
+        <text class="pl-num_light" x="0" y="5" text-anchor="middle">3</text>
+        <g class="pl-chip_light" transform="translate(0,50)" style="animation-delay:0.8s">
+          <rect x="-92" y="-10" width="184" height="52" rx="12" class="pl-chiprect_light"/>
+          <text class="pl-title_light" x="0" y="8" text-anchor="middle">Ship</text>
+          <text class="pl-sub_light" x="0" y="24" text-anchor="middle">LangGraph, FastAPI, Next.js</text>
+        </g>
+      </g>
+
+      <g transform="translate(1020,110)">
+        <circle class="pl-glow_light" r="34" fill="url(#plglow_light)" style="animation-delay:1.2s"/>
+        <circle class="pl-core_light" r="20" style="animation-delay:1.2s"/>
+        <text class="pl-num_light" x="0" y="5" text-anchor="middle">4</text>
+        <g class="pl-chip_light" transform="translate(0,50)" style="animation-delay:1.2s">
+          <rect x="-92" y="-10" width="184" height="52" rx="12" class="pl-chiprect_light"/>
+          <text class="pl-title_light" x="0" y="8" text-anchor="middle">Iterate</text>
+          <text class="pl-sub_light" x="0" y="24" text-anchor="middle">Tests, evals, doctrine refinement</text>
+        </g>
+      </g>
+</svg>
