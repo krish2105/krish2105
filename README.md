@@ -236,7 +236,7 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 
 <br/><br/>
 
-🕒 Last synced: <!--LAST_SYNCED-->2026-07-31 13:11 UTC<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
+🕒 Last synced: <!--LAST_SYNCED-->2026-07-31 13:14 UTC<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
 
 <br/>
 
@@ -270,7 +270,7 @@ provided automatically by GitHub Actions.
 
 4. LAST-SYNCED FOOTER — add .github/workflows/sync-readme-footer.yml 
 5. (provided in an earlier step). It rewrites the text between
-<!--LAST_SYNCED-->2026-07-31 13:11 UTC<!--END_LAST_SYNCED--> with the current UTC time
+<!--LAST_SYNCED-->2026-07-31 13:14 UTC<!--END_LAST_SYNCED--> with the current UTC time
 
 4. on every push, daily, and on manual trigger.
 
