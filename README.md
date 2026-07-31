@@ -56,6 +56,56 @@ current_focus:
   looking_for: "AI/ML Analyst, Business Analyst & AI Associate roles across the UAE (G42, Presight, Core42)"
   location: "Dubai, UAE"
 
+
+<div align="center">
+
+
+🎓 Academic Credentials
+
+<img src="https://img.shields.io/badge/MAIB-SP%20Jain%20School%20of%20Global%20Management-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="MAIB, SP Jain School of Global Management"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-Manipal%20University%20Jaipur-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="B.Tech CSE AI & ML, Manipal University Jaipur"/>
+<img src="https://img.shields.io/badge/Merit%20Scholarship-%249%2C000-0F172A?style=flat-square&logo=starship&logoColor=FBBF24" alt="$9,000 Merit Scholarship"/>
+<img src="https://img.shields.io/badge/Student%20Excellence%20Award-Manipal-0F172A?style=flat-square&logo=starship&logoColor=FBBF24" alt="Student Excellence Award, Manipal"/>
+<img src="https://img.shields.io/badge/Brilliant%20Student%20Award-Top%20of%20Cohort-0F172A?style=flat-square&logo=starship&logoColor=FBBF24" alt="Brilliant Student Award, top of B.Tech CSE AI & ML cohort"/>
+
+
+<br/><br/>
+
+📊 Impact Snapshot
+
+<img src="https://img.shields.io/badge/Agentic%20Ventures-9-111C3D?style=for-the-badge&logo=hive&logoColor=22D3EE" alt="9 Agentic Ventures"/>
+<img src="https://img.shields.io/badge/Shipped%20Public%20Repos-6-111C3D?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="6 Shipped Public Repos"/>
+<img src="https://img.shields.io/badge/Agents%20Specced-28%2B-111C3D?style=for-the-badge&logo=robotframework&logoColor=22D3EE" alt="28+ Agents Specced across Halqa AI and Masar AI"/>
+<img src="https://img.shields.io/badge/Sani%20CLI%20Tests-215-111C3D?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="215 tests in Sani CLI"/>
+<img src="https://img.shields.io/badge/Retail%20Dataset-913k%20Rows-111C3D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="913k row retail dataset"/>
+
+
+</div>
+
+⸻
+⚙️ How I Build
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-pipeline.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/build-pipeline-light.svg">
+  <img src="assets/build-pipeline.svg" width="100%" alt="Build pipeline: Research, then Build Prompt, then Ship, then Iterate"/>
+</picture>
+</div>
+
+
+Every venture in the portfolio follows the same loop: scan the market and score the idea → turn it into a copy-paste master build prompt → ship it with the locked stack → close the loop with tests, evals, and a CLAUDE.md doctrine file.
+⸻
+🗺️ Academic → Agentic Roadmap
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/roadmap-timeline.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/roadmap-timeline-light.svg">
+  <img src="assets/roadmap-timeline.svg" width="100%" alt="Roadmap from Term 1 foundations through Term 3 shipping to the current agentic buildout"/>
+</picture>
+</div>
+
 ⸻
 🛠️ Currently Building
 
@@ -213,6 +263,11 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 
 <br/><br/>
 
+🕒 Last synced: <!--LAST_SYNCED-->not yet synced<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
+
+<br/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=110&section=footer" width="100%" alt="Animated footer"/>
 
 
@@ -222,10 +277,12 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 <!--
 SETUP NOTE (delete this comment once done):
 1. In your krish2105/krish2105 repo, create a folder named `assets`.
-2. Upload all six SVGs into that folder:
+2. Upload all TEN SVGs into that folder:
    hero-orbit.svg, hero-orbit-light.svg,
    agent-constellation.svg, agent-constellation-light.svg,
-   skills-orbit.svg, skills-orbit-light.svg
+   skills-orbit.svg, skills-orbit-light.svg,
+   roadmap-timeline.svg, roadmap-timeline-light.svg,
+   build-pipeline.svg, build-pipeline-light.svg
 3. Commit to main — GitHub resolves assets/*.svg relative to the repo root
    automatically. The dark file shows for dark-theme viewers, the light
    file for light-theme viewers, via prefers-color-scheme.
@@ -233,6 +290,16 @@ SETUP NOTE (delete this comment once done):
    Resume badge near the top links correctly. If you'd rather host it
    elsewhere (Drive, your portfolio site), replace that badge's href with
    your own URL instead.
-5. All SVGs are self-contained CSS animations (no JS, no external calls),
-   so they render identically for every visitor and cost nothing to host.
+5. To make the "Last synced" footer auto-update, add the workflow file
+   .github/workflows/sync-readme-footer.yml (provided separately) to your
+   repo at that exact path. It runs on every push to main, daily at
+   midnight UTC, and on manual trigger — it rewrites the text between
+   <!--LAST_SYNCED--> and <!--END_LAST_SYNCED--> with the current UTC
+
+
+time and commits the change back automatically. No setup beyond 
+adding the file — GitHub's default token has permission to push 
+because the workflow requests contents: write. 
+6. All SVGs are self-contained CSS animations (no JS, no external calls), 
+so they render identically for every visitor and cost nothing to host. 
 -->
