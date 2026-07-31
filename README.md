@@ -57,8 +57,6 @@ current_focus:
 
 <!--START_SECTION:activity-->
 
-<!-- This section fills in automatically — see the setup note at the bottom -->
-
 <!--END_SECTION:activity-->
 
 ⸻
@@ -236,7 +234,7 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 
 <br/><br/>
 
-🕒 Last synced: <!--LAST_SYNCED-->2026-07-31 13:14 UTC<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
+🕒 Last synced: <!--LAST_SYNCED-->not yet synced<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
 
 <br/>
 
@@ -245,38 +243,3 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 
 
 </div>
-
-
-<!--
-SETUP NOTE (delete this comment once done):
-
-1. ASSETS — upload all TEN SVGs into an `assets/` folder at the repo root:
-   hero-orbit.svg, hero-orbit-light.svg,
-   agent-constellation.svg, agent-constellation-light.svg,
-   skills-orbit.svg, skills-orbit-light.svg,
-   roadmap-timeline.svg, roadmap-timeline-light.svg,
-   build-pipeline.svg, build-pipeline-light.svg
-
-2. RESUME — upload resume.pdf to the REPO ROOT (not assets/), or swap the
-   Resume badge's href for wherever you host it instead.
-
-3. RECENT ACTIVITY — add .github/workflows/update-recent-activity.yml
-   (provided separately). It runs every 30 minutes, reads your real public
-   GitHub events, and rewrites the content between <!--START_SECTION:activity-->
-
-
-and <!--END_SECTION:activity--> above. No config needed — GITHUB_TOKEN is 
-provided automatically by GitHub Actions.
-
-4. LAST-SYNCED FOOTER — add .github/workflows/sync-readme-footer.yml 
-5. (provided in an earlier step). It rewrites the text between
-<!--LAST_SYNCED-->2026-07-31 13:14 UTC<!--END_LAST_SYNCED--> with the current UTC time
-
-4. on every push, daily, and on manual trigger.
-
-5. Both workflow files need contents: write permission to commit back — 
-6. this is already set inside each file, nothing extra to configure.
-
-6. All SVGs are self-contained CSS animations (no JS, no external calls), 
-7. so they render identically for every visitor and cost nothing to host. 
-8. -->
