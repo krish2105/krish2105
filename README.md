@@ -263,7 +263,7 @@ I enjoy discussing agentic AI, applied machine learning, NLP, FinTech, AI ethics
 
 <br/><br/>
 
-🕒 Last synced: <!--LAST_SYNCED-->not yet synced<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
+🕒 Last synced: <!--LAST_SYNCED-->2026-07-31 12:54 UTC<!--END_LAST_SYNCED--> · kept fresh automatically by a GitHub Action
 
 <br/>
 
@@ -294,7 +294,7 @@ SETUP NOTE (delete this comment once done):
    .github/workflows/sync-readme-footer.yml (provided separately) to your
    repo at that exact path. It runs on every push to main, daily at
    midnight UTC, and on manual trigger — it rewrites the text between
-   <!--LAST_SYNCED--> and <!--END_LAST_SYNCED--> with the current UTC
+   <!--LAST_SYNCED-->2026-07-31 12:54 UTC<!--END_LAST_SYNCED--> with the current UTC
 
 
 time and commits the change back automatically. No setup beyond 
