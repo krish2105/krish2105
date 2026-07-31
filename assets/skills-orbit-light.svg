@@ -1,0 +1,129 @@
+<svg viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Floating orbit of core technologies used across projects">
+  <defs>
+    <linearGradient id="skbg_light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="55%" stop-color="#EEF2FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <radialGradient id="skhub_light" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skdot_light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#4338CA"/>
+    </linearGradient>
+    <filter id="skblur_light"><feGaussianBlur stdDeviation="28"/></filter>
+    <style><![CDATA[
+      .skbgr_light { fill: url(#skbg_light); }
+      .skorb_light { filter: url(#skblur_light); animation: skPulse_light 6.8s ease-in-out infinite; }
+      @keyframes skPulse_light { 0%,100% { opacity:0.55; } 50% { opacity: calc(0.55 + .2); } }
+      .skring_light {
+        fill:none; stroke:#0EA5E9; stroke-opacity:.22; stroke-width:1.2; stroke-dasharray:3 9;
+        transform-box: view-box; transform-origin:600px 195px;
+        animation: skRing_light 110s linear infinite;
+      }
+      @keyframes skRing_light { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      .skhubpulse_light { transform-box: fill-box; transform-origin: center; animation: skHub_light 3.2s ease-in-out infinite; }
+      @keyframes skHub_light { 0%,100% { transform: scale(1); opacity:.85; } 50% { transform: scale(1.15); opacity:1; } }
+      .skhubtext_light { font-family: Verdana, 'Segoe UI', sans-serif; font-weight:800; font-size:13px; letter-spacing:1px; fill:#0F172A; text-anchor:middle; }
+      .skcenter_light { transform-box: view-box; transform-origin:600px 195px; }
+      .sk-orbiter_light {
+        animation-name: skillOrbit_light;
+        animation-duration: 70s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+      }
+      .sk-dot_light { fill: url(#skdot_light); }
+      .sk-chip_light { fill:#FFFFFF; stroke:#0EA5E9; stroke-opacity:.55; stroke-width:1; }
+      .sk-text_light { font-family: Verdana, 'Segoe UI', sans-serif; font-size:11.5px; font-weight:700; fill:#0F172A; }
+      @keyframes skillOrbit_light {
+        0.0% { transform: translate(150.0px, 0.0px); }
+        4.167% { transform: translate(144.89px, 38.82px); }
+        8.333% { transform: translate(129.9px, 75.0px); }
+        12.5% { transform: translate(106.07px, 106.07px); }
+        16.667% { transform: translate(75.0px, 129.9px); }
+        20.833% { transform: translate(38.82px, 144.89px); }
+        25.0% { transform: translate(0.0px, 150.0px); }
+        29.167% { transform: translate(-38.82px, 144.89px); }
+        33.333% { transform: translate(-75.0px, 129.9px); }
+        37.5% { transform: translate(-106.07px, 106.07px); }
+        41.667% { transform: translate(-129.9px, 75.0px); }
+        45.833% { transform: translate(-144.89px, 38.82px); }
+        50.0% { transform: translate(-150.0px, 0.0px); }
+        54.167% { transform: translate(-144.89px, -38.82px); }
+        58.333% { transform: translate(-129.9px, -75.0px); }
+        62.5% { transform: translate(-106.07px, -106.07px); }
+        66.667% { transform: translate(-75.0px, -129.9px); }
+        70.833% { transform: translate(-38.82px, -144.89px); }
+        75.0% { transform: translate(-0.0px, -150.0px); }
+        79.167% { transform: translate(38.82px, -144.89px); }
+        83.333% { transform: translate(75.0px, -129.9px); }
+        87.5% { transform: translate(106.07px, -106.07px); }
+        91.667% { transform: translate(129.9px, -75.0px); }
+        95.833% { transform: translate(144.89px, -38.82px); }
+        100.0% { transform: translate(150.0px, -0.0px); }
+      }
+    ]]></style>
+  </defs>
+
+  <rect class="skbgr_light" x="0" y="0" width="1200" height="380" rx="20"/>
+  <circle class="skorb_light" cx="110" cy="90" r="90" fill="#C7D2FE"/>
+  <circle class="skorb_light" cx="1090" cy="290" r="100" fill="#BAE6FD" style="animation-delay:2s"/>
+
+  <circle class="skring_light" cx="600" cy="195" r="150"/>
+
+  <g class="skcenter_light">
+      <g class="sk-orbiter_light" style="animation-delay:-0.0s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">LangGraph</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-8.75s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">FastAPI</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-17.5s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">Next.js 14</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-26.25s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">Pydantic v2</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-35.0s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">PostgreSQL</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-43.75s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">Motion</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-52.5s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">GSAP</text>
+      </g>
+
+      <g class="sk-orbiter_light" style="animation-delay:-61.25s;">
+        <circle class="sk-dot_light" r="5"/>
+        <rect class="sk-chip_light" x="-62" y="10" width="124" height="32" rx="9"/>
+        <text class="sk-text_light" x="0" y="31" text-anchor="middle">Docker</text>
+      </g>
+  </g>
+
+  <circle class="skhubpulse_light" cx="600" cy="195" r="42" fill="url(#skhub_light)"/>
+  <circle cx="600" cy="195" r="28" fill="#FFFFFF" stroke="#0EA5E9" stroke-opacity=".6" stroke-width="1.5"/>
+  <text class="skhubtext_light" x="600" y="199">STACK</text>
+</svg>
