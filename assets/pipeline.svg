@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="How I build: raw data, model, guardrails, human approval, logged decision">
+
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#0F1A2B"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <clipPath id="pcard"><rect width="1000" height="130" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#pcard)">
+    <rect width="1000" height="130" fill="url(#pbg)"/>
+
+    <!-- the track -->
+    <path d="M92 60 H908" stroke="#1E293B" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- animated flow line drawing left to right -->
+    <path d="M92 60 H908" stroke="url(#flow)" stroke-width="2.5" stroke-linecap="round"
+          stroke-dasharray="816" stroke-dashoffset="816">
+      <animate attributeName="stroke-dashoffset" values="816;0;0;816" dur="8s"
+               keyTimes="0;0.35;0.88;1" repeatCount="indefinite"/>
+    </path>
+
+    <!-- packet travelling the pipeline -->
+    <circle r="4.5" fill="#F8FAFC">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M92 60 H908"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="'SF Mono', 'Fira Code', Consolas, monospace" font-size="12" fill="#94A3B8" text-anchor="middle">
+
+      <!-- node 1 -->
+      <circle cx="92" cy="60" r="9" fill="#0B1220" stroke="#38BDF8" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3.5;2" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="92" y="96">Messy data</text>
+
+      <!-- node 2 -->
+      <circle cx="296" cy="60" r="9" fill="#0B1220" stroke="#38BDF8" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3.5;2" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="296" y="96">Trained model</text>
+
+      <!-- node 3 -->
+      <circle cx="500" cy="60" r="9" fill="#0B1220" stroke="#2DD4BF" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3.5;2" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="500" y="96">Guardrails</text>
+
+      <!-- node 4 -->
+      <circle cx="704" cy="60" r="9" fill="#0B1220" stroke="#2DD4BF" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3.5;2" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="704" y="96">Human approves</text>
+
+      <!-- node 5 -->
+      <circle cx="908" cy="60" r="9" fill="#0B1220" stroke="#F59E0B" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;4;2" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="908" y="96" fill="#F59E0B">Logged decision</text>
+    </g>
+
+    <text x="92" y="32" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="13" font-weight="600" fill="#64748B" letter-spacing="1.6">HOW I BUILD</text>
+
+    <rect x="0.75" y="0.75" width="998.5" height="128.5" rx="14" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+  </g>
+</svg>
