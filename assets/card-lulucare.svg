@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220" role="img" aria-label="LuluCare 360: Rule-based decision engine built for resolving customer complaints.">
+<title>LuluCare 360: Rule-based decision engine built for resolving customer complaints.</title>
+<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9dffc2"/><stop offset=".5" stop-color="#1fa863"/><stop offset="1" stop-color="#9dffc2"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient><linearGradient id="pf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a14"/><stop offset="1" stop-color="#050505"/></linearGradient></defs>
+<rect x="26" y="30" width="464" height="176" rx="16" fill="#3ddc84" opacity=".14"/>
+<rect x="18" y="22" width="464" height="176" rx="16" fill="#3ddc84" opacity=".20"/>
+<rect x="10" y="14" width="464" height="176" rx="16" fill="url(#pf)" stroke="url(#bd)" stroke-width="1.8"/>
+<text x="452" y="60" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" fill="#3ddc84" opacity=".35">06</text>
+<text x="34" y="62" font-family="'Inter','SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#e8f5ee">LuluCare 360</text>
+<text x="34" y="94" font-family="'Inter','SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8fa398">Rule-based decision engine built for resolving</text>
+<text x="34" y="115" font-family="'Inter','SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8fa398">customer complaints.</text>
+<rect x="34.0" y="140" width="66.4" height="26" rx="13" fill="#050505" stroke="#3ddc84" stroke-opacity=".6"/><text x="67.2" y="157" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#3ddc84">Python</text>
+<text x="452" y="162" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f5ee">view ↗<animate attributeName="opacity" values="1;.4;1" dur="2.6s" repeatCount="indefinite"/></text>
+</svg>
