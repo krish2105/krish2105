@@ -41,9 +41,9 @@
 
 <div align="center">
 
-<img src="./assets/h-3d.svg" alt="Contributions in 3D" width="100%">
+<img src="./assets/h-pipeline.svg" alt="How I build" width="100%">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%">
+<img src="./assets/pipeline.svg" alt="3D pipeline: messy data flows through retrieval, agents and verification into a decision" width="100%">
 
 <br/><br/>
 
