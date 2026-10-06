@@ -1,78 +1,105 @@
-<!-- Profile README for github.com/krish2105 Requires two files committed alongside this one: assets/header.svg assets/pipeline.svg Both are animated. GitHub renders SMIL animation inside <img>, so they move on the live profile. Repo links below use current repo names. GitHub auto-redirects after a rename, so these keep working once you rename to project-wafa, wasl-ai etc. --> <p align="center"> <img src="https://raw.githubusercontent.com/krish2105/krish2105/main/assets/header.svg?v=4" alt="Krishna Mathur, applied AI and machine learning for business decisions, Dubai UAE" width="100%"> </p> <p align="center"> <a href="https://portolio-krishna.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/krishnamathurmay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:krishnamathur008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Agentic+RAG+over+UAE+public+data;Multilingual+NLP+for+customer+operations;Risk%2C+fraud+and+capital+decision+systems" alt="Agentic RAG, multilingual NLP, risk and capital decision systems"> </p>
-What I build
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
 
-I build machine learning systems that sit inside a business decision rather than next to it. The pattern is usually the same. Take operational data that nobody has cleaned, build something that is honest about what it does not know, then wrap it in an interface where a non-technical reviewer can approve, edit or reject what the system proposed.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krishna%20Mathur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%2B%20Finance%20Builder&descAlignY=56&descSize=16" alt="Krishna Mathur banner" width="100%" />
 
-Three lines of work:
+<a href="https://github.com/krish2105">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Builder+%7C+MAIB+%40+SP+Jain+Dubai;Fraud+Detection+%26+NLP+Systems;Turning+data+into+business+decisions" alt="Typing intro" />
+</a>
 
-Agentic retrieval and reasoning systems over public and enterprise data, where the answer has to be traceable to a source rather than asserted.
-Multilingual NLP for customer operations, where the same complaint arrives in English, Arabic, Hindi and Tagalog and still has to be triaged consistently.
-Risk, fraud and capital decision models for finance teams who need a number they can defend in a room full of people who did not build the model.
+<br/>
 
-The constraint I design around is what the system must not do. Nationality excluded as a training feature and audited. Destructive SQL impossible by construction. Refusals published rather than hidden. Human approval before anything reaches a customer.
+![Open to work](https://img.shields.io/badge/Open%20to-AI%2FML%20Analyst%20roles%20%C2%B7%20UAE-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-7C3AED?style=for-the-badge&labelColor=0D1117)
 
-<p align="center"> <img src="https://raw.githubusercontent.com/krish2105/krish2105/main/assets/pipeline.svg?v=4" alt="How I build: messy data, trained model, guardrails, human approval, logged decision" width="100%"> </p>
-Who I build it for
-Banks and fintechs that need churn, fraud and retention scoring they can explain to a regulator, not just to a data scientist.
-Finance and strategy functions that need a model translated back into a number, a recommendation and a stated confidence level.
-Government and public-sector teams working with open data where answers must cite their source.
-Operators in the GCC building bilingual, Gulf-specific systems where off-the-shelf English-only tooling breaks.
+<a href="https://www.linkedin.com/in/krishnamathurmay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:krishnamathur008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portolio-krishna.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-Based in Dubai, completing an MSc in AI for Business at SP Jain School of Global Management.
+</div>
 
-Selected work
-Project	What it does	Stack
-Masar AI	Agentic RAG over Dubai RTA open data. A 14-agent LangGraph orchestration with a corrective retrieval loop, hybrid search across pgvector and Postgres full-text, Text-to-SQL, and deterministic fare arithmetic so money is never computed by a language model. Bilingual English and Arabic.	Python, LangGraph, pgvector, PostgreSQL, FastAPI, Next.js
-Project Wafa — live demo →	Retention intelligence for a UAE bank. Triages multilingual customer messages into churn risk, then drafts a retention action a human must approve. Fairness audited, nationality excluded as a feature, every decision written to an append-only log.	Python, scikit-learn, DistilBERT, Streamlit
-Ashraq	Capital budgeting for a 1.2 MWp rooftop solar investment for a Dubai cold-chain operator, compared across four ownership structures. Deterministic finance engine, so every figure traces back to a stated assumption.	TypeScript, Next.js, financial modelling
-Wasl AI	Scores how legible a business is to AI agents on a 100-point index, then generates the MCP server that makes it legible. Cited evidence for every score, and refusals published rather than silently dropped.	Python, MCP, FastAPI, Next.js
-Learners WinBack Engine	Ranks lapsed education leads by expected recoverable revenue rather than engagement, and blocks the ones that must not be contacted.	TypeScript, Next.js, Tailwind
-SQLGuard	Dialect-aware safety guard for LLM-generated SQL. Makes destructive and exfiltrating queries impossible by construction rather than by prompt.	Python, sqlglot
-Tech stack
+---
 
-Languages
+## 👋 Hi, I'm Krishna
 
-Python, TypeScript, SQL
+I build **applied AI systems** where machine learning meets real business decisions: fraud detection models, multilingual NLP pipelines, and analytics dashboards.
 
-Agentic systems and retrieval
+- 🎓 **Master of AI in Business** @ SP Jain School of Global Management, Dubai
+- 💻 **B.Tech in Computer Science (AI & ML)**, Manipal University Jaipur
+- 🔭 **Right now:** building *Project Wafa*, a multilingual customer-retention NLP platform
+- 🎯 **Goal:** ship working prototypes that businesses can actually use, not just theory
 
-LangGraph multi-agent orchestration, corrective RAG loops
-Hybrid retrieval: pgvector dense search plus Postgres full-text
-Text-to-SQL with schema, structural and semantic guardrails
-MCP server design
+---
 
-Machine learning
+## 🛠️ Tech Stack
 
-scikit-learn, TensorFlow, Keras
-LSTM, GRU, 1D-CNN, autoencoders for sequence and anomaly work
-Class imbalance handling, cross validation, fairness auditing
+**Languages & Tools**
 
-NLP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Hugging Face Transformers, DistilBERT, spaCy
-TF-IDF and classical baselines, NER, zero-shot classification
-Bilingual and multilingual pipelines across English, Arabic, Hindi and Tagalog
+**Machine Learning & AI**
 
-Apps and delivery
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Next.js 15, React 19, Tailwind, FastAPI, Streamlit
-PostgreSQL, AWS RDS, DynamoDB, EMR, PySpark
-Git, GitHub Actions, Jupyter
+**Apps, APIs & Analytics**
 
-Business layer
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-DCF, capital budgeting, unit economics
-Power BI, Excel financial modelling
-Currently
-Building an evaluation layer for Project Wafa: a hand-labelled multilingual test set, a published baseline comparison, and an error analysis of what the model gets wrong.
-Deploying Masar AI and Ashraq to public URLs.
-Open to AI/ML Analyst, Business Analyst and AI Associate roles in the UAE.
-Activity
-<p align="center"> <img src="https://github-readme-stats-rp5q.vercel.app/api?username=krish2105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=2DD4BF&v=4" alt="GitHub stats" height="165"> <img src="https://github-readme-stats-rp5q.vercel.app/api/top-langs/?username=krish2105&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&v=4" alt="Top languages" height="165"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish2105&theme=tokyo-night&hide_border=true&bg_color=0B1220&color=E2E8F0&line=38BDF8&point=F59E0B&area=true" alt="Contribution activity graph" width="100%"> </p> <p align="center"> <img src="https://raw.githubusercontent.com/krish2105/krish2105/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"> </p>
-Get in touch
+---
 
-The fastest way to reach me is email: krishnamathur008@gmail.com
+## 🚀 Top Projects
 
-I reply to everything, and I am happy to walk through the code or the reasoning behind any project above.
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| 🛡️ [**FraudShield AI**](https://github.com/krish2105/FraudShield-AI-Deep-Learning) | LSTM/RNN deep-learning model that flags fraudulent payment transactions. | Python · TensorFlow |
+| 📈 [**StockwiseAI**](https://github.com/krish2105/StockwiseAI-DL-Project) | LSTM-based demand and price forecasting with an interactive front end. | Python · TensorFlow · Streamlit |
+| 🏦 [**Project Wafa**](https://github.com/krish2105/NLP-Final-project-Wafa) | Multilingual NLP platform to improve customer retention in banking. | Python · NLP · Streamlit |
+| 🗣️ [**NLP → SQL**](https://github.com/krish2105/NLP-NL2-SQL) | Ask questions in plain English and get database queries back. | Python · NLP |
+| 🧭 [**LuluCare 360**](https://github.com/krish2105/NLP-LuluCare360) | Rule-based decision engine that resolves customer complaints. | Python |
+| 📊 [**Lulu Intelligence Dashboard**](https://github.com/krish2105/lulu-intelligence-dashboard) | Retail analytics dashboard that turns raw data into decisions. | TypeScript |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" width="100%">
+<sub>👉 More on my [repositories page](https://github.com/krish2105?tab=repositories) and [portfolio](https://portolio-krishna.vercel.app/).</sub>
+
+---
+
+## 🧊 My Contributions in 3D
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krish2105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2105&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always up for a conversation about **AI/ML, NLP, FinTech, and turning data into decisions**.
+Hiring for an AI/ML analyst role, working on something interesting, or just want to swap ideas? Say hi, I reply fast. 👋
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishnamathurmay/"><img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:krishnamathur008@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=krish2105&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
+
+</div>
